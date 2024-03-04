@@ -3,4 +3,3 @@
 - 🌱 I’m currently learning ReactJS
 - ✊ I’m looking to collaborate on interesting projects.
 - 📫 How to reach me tsintsabadzevano@gmail.com
-- 🔗 Personal website: [tsintsabadze.xyz](http://tsintsabadze.xyz)
