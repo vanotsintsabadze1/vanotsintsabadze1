@@ -7,5 +7,3 @@ Besides being a tech savvy, I'm an addict when it comes to listening to music & 
 If you ever want to get in touch with me, email @ tsintsabadzevano@gmail.com
 
 TOUCH DOWN https://www.linkedin.com/in/vano-tsintsabadze-b20518270/
-
-oh and perhaps you might also want to check out https://www.tsintsabadze.xyz/ ?
