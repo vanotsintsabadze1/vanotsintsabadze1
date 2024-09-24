@@ -1,4 +1,4 @@
-I'm Vano, an 18 years old Computer Sci. student @ Batumi Shota Rustaveli State University.
+I'm Vano, a 19 years old Computer Sci. student @ Batumi Shota Rustaveli State University.
 
 I'm an aspiring full-stack web developer and a TBC IT Academy x USAID React Accelerator graduate.
 
