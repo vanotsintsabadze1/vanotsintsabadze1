@@ -1,12 +1,5 @@
-I'm Vano, a 19 years old Computer Sci. student @ Batumi Shota Rustaveli State University.
-
-I'm an aspiring full-stack web developer and a TBC IT Academy x USAID React Accelerator graduate.
-
-Besides being a tech savvy, I'm an addict when it comes to listening to music & working out.
-
+I'm Vano, 19 and I am a full-stack software engineer, having worked with .NET Core, MSSQL, Typescript & Next.js
 If you ever want to get in touch with me, email @ tsintsabadzevano@gmail.com
-
-TOUCH DOWN 
 
 [Website](https://www.tsintsabadze.xyz/)
 
